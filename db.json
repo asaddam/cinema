@@ -158,24 +158,7 @@
         "Sam Claflin",
         "Kristen Stewart"
       ],
-      "booked": [
-        [
-          0,
-          4
-        ],
-        [
-          0,
-          5
-        ],
-        [
-          1,
-          4
-        ],
-        [
-          1,
-          5
-        ]
-      ],
+      "booked": [],
       "image": "https://cdn.cgv.id/uploads/movie/compressed/19038000.jpg"
     }
   ],
@@ -195,44 +178,7 @@
       "email": "admin@admin.com",
       "cart": [],
       "id": 2
-    },
-    {
-      "username": "baba",
-      "password": "asdfg",
-      "email": "baba",
-      "role": "user",
-      "cart": [],
-      "id": 3
     }
   ],
-  "transactions": [
-    {
-      "idUser": 1,
-      "date": "14:39 - 18/12/2019",
-      "totalAmount": 3,
-      "totalPrice": 150000,
-      "detail": [
-        {
-          "name": "Charli's Angels",
-          "seats": [
-            [
-              0,
-              5
-            ],
-            [
-              1,
-              4
-            ],
-            [
-              1,
-              5
-            ]
-          ],
-          "totalPrice": 150000,
-          "ticketAmount": 3
-        }
-      ],
-      "id": 1
-    }
-  ]
+  "transactions": []
 }
