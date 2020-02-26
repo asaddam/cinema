@@ -16,108 +16,7 @@
         "Karen Gilian",
         "Jack Black"
       ],
-      "booked": [
-        [
-          3,
-          11
-        ],
-        [
-          3,
-          12
-        ],
-        [
-          2,
-          17
-        ],
-        [
-          2,
-          16
-        ],
-        [
-          3,
-          16
-        ],
-        [
-          2,
-          8
-        ],
-        [
-          2,
-          7
-        ],
-        [
-          3,
-          10
-        ],
-        [
-          3,
-          9
-        ],
-        [
-          3,
-          8
-        ],
-        [
-          0,
-          3
-        ],
-        [
-          0,
-          4
-        ],
-        [
-          3,
-          7
-        ],
-        [
-          2,
-          9
-        ],
-        [
-          2,
-          10
-        ],
-        [
-          2,
-          11
-        ],
-        [
-          2,
-          12
-        ],
-        [
-          3,
-          17
-        ],
-        [
-          2,
-          6
-        ],
-        [
-          2,
-          5
-        ],
-        [
-          3,
-          6
-        ],
-        [
-          3,
-          5
-        ],
-        [
-          3,
-          4
-        ],
-        [
-          0,
-          16
-        ],
-        [
-          0,
-          17
-        ]
-      ],
+      "booked": [],
       "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157380448937451_287x421.jpg"
     },
     {
@@ -134,68 +33,7 @@
         "Ian McKellen",
         "Russel Tovey"
       ],
-      "booked": [
-        [
-          2,
-          12
-        ],
-        [
-          2,
-          13
-        ],
-        [
-          2,
-          6
-        ],
-        [
-          2,
-          7
-        ],
-        [
-          2,
-          6
-        ],
-        [
-          2,
-          7
-        ],
-        [
-          3,
-          10
-        ],
-        [
-          3,
-          9
-        ],
-        [
-          2,
-          11
-        ],
-        [
-          2,
-          9
-        ],
-        [
-          2,
-          10
-        ],
-        [
-          2,
-          9
-        ],
-        [
-          2,
-          10
-        ],
-        [
-          2,
-          9
-        ],
-        [
-          2,
-          10
-        ]
-      ],
+      "booked": [],
       "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157423720057093_287x421.jpg"
     },
     {
@@ -212,24 +50,7 @@
         "Hamish Daud",
         "Rachel Amanda"
       ],
-      "booked": [
-        [
-          2,
-          7
-        ],
-        [
-          2,
-          6
-        ],
-        [
-          2,
-          8
-        ],
-        [
-          2,
-          9
-        ]
-      ],
+      "booked": [],
       "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157138861225634_287x421.jpg"
     },
     {
@@ -247,16 +68,7 @@
         "Anggika Bolsterli",
         "Ipda Dimas Adit S"
       ],
-      "booked": [
-        [
-          0,
-          0
-        ],
-        [
-          0,
-          1
-        ]
-      ],
+      "booked": [],
       "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157379161737188_287x421.jpg"
     },
     {
@@ -274,16 +86,7 @@
         "Elina Joerg",
         "Fay Nabila"
       ],
-      "booked": [
-        [
-          2,
-          8
-        ],
-        [
-          2,
-          9
-        ]
-      ],
+      "booked": [],
       "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157310760872775_287x421.jpg"
     },
     {
@@ -302,16 +105,7 @@
         "Idina Menzel",
         "Jonathan Groff"
       ],
-      "booked": [
-        [
-          2,
-          10
-        ],
-        [
-          2,
-          11
-        ]
-      ],
+      "booked": [],
       "image": "https://media.21cineplex.com/webcontent/gallery/pictures/157250534676979_287x421.jpg"
     },
     {
